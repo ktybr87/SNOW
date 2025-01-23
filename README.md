@@ -13,3 +13,4 @@ contract SnowCoin is ERC20, Ownable {
     }
 }
 000
+00000000000000000000000
